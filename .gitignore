@@ -17,7 +17,8 @@ __pycache__/
 *.log
 *.bak
 *.swp
-
+*.txt
+tmp_*
 # Системные файлы
 Thumbs.db  # Windows
 .DS_Store  # macOS
